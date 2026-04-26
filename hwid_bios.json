@@ -5,6 +5,12 @@
             "displayUsername": "NXR",
             "hwid": "4471d393-c4a2-4569-971b-25beb5cc1c7a",
             "paused": false
+        },
+        {
+            "username": "ANTOR",
+            "displayUsername": "ANTOR",
+            "hwid": "501e1bbe-007e-46d7-93b6-f2a7a9f1959c",
+            "expiryDate": "2030-11-11"
         }
-]
+    ]
 }

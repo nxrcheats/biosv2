@@ -1,0 +1,10 @@
+{
+    "allowed_hwids": [
+        {
+            "username": "ANTOR",
+            "displayUsername": "NXR",
+            "hwid": "4471d393-c4a2-4569-971b-25beb5cc1c7a",
+            "paused": false
+        }
+]
+}

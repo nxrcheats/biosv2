@@ -10,6 +10,12 @@
             "username": "ANTOR",
             "hwid": "4471d393-c4a2-4569-971b-25beb5cc1c7a",
             "expiryDate": ""
+        },
+        {
+            "username": "ZORO",
+            "displayUsername": "sunny",
+            "hwid": "eb92f432-259e-4501-bc07-37e3fa485ae7",
+            "expiryDate": "2026-06-04"
         }
     ]
 }

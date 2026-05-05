@@ -2,25 +2,20 @@
     "allowed_hwids": [
         {
             "username": "ANTOR",
-            "displayUsername": "ANTOR",
-            "hwid": "501e1bbe-007e-46d7-93b6-f2a7a9f1959c",
+            "displayUsername": "NXR",
+            "sid": "S-1-5-21-3530959690-1344960440-4152187725-1001",
             "expiryDate": "2030-11-11"
-        },
-        {
-            "username": "ANTOR",
-            "hwid": "4471d393-c4a2-4569-971b-25beb5cc1c7a",
-            "expiryDate": ""
         },
         {
             "username": "ZORO",
             "displayUsername": "chittu",
-            "hwid": "e69687b2-2e5f-4c84-8138-7d234814707a",
+            "sid": "S-1-5-21-3530959690-1344960440-4152187725-1001",
             "expiryDate": "2026-06-04"
         },
         {
             "username": "ZORO",
             "displayUsername": "sunny",
-            "hwid": "5f8e1f5c-b667-45d5-bfc0-64a8f11f7bf6",
+            "sid": "S-1-5-21-3530959690-1344960440-4152187725-1001",
             "expiryDate": "2026-06-04"
         }
     ]

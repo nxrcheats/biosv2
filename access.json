@@ -29,6 +29,12 @@
             "displayUsername": "antor",
             "sid": "S-1-5-21-3618462483-1887792853-4037339759-1001",
             "expiryDate": "2030-02-22"
+        },
+        {
+            "username": "ZORO",
+            "displayUsername": "zoro",
+            "sid": "S-1-5-21-2961563917-1202895440-1943191348-1001",
+            "expiryDate": "2026-06-05"
         }
     ]
 }

@@ -47,6 +47,12 @@
             "displayUsername": "heist permanent --",
             "sid": "S-1-5-21-62359354-1024370914-757928604-1001",
             "expiryDate": "2030-11-11"
+        },
+        {
+            "username": "ZORO",
+            "displayUsername": "420-123",
+            "sid": "S-1-5-21-3733034010-1617342665-3374539648-1002",
+            "expiryDate": "2026-06-05"
         }
     ]
 }

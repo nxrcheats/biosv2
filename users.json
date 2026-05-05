@@ -4,11 +4,5 @@
         "password": "ANTOR1234@",
         "role": "user",
         "createdBy": "NXR"
-    },
-    {
-        "username": "ZORO",
-        "password": "ZORO1234@",
-        "role": "user",
-        "createdBy": "NXR"
     }
 ]

@@ -10,5 +10,11 @@
         "password": "1",
         "role": "user",
         "createdBy": "NXR"
+    },
+    {
+        "username": "nazmul",
+        "password": "1",
+        "role": "user",
+        "createdBy": "NXR"
     }
 ]

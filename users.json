@@ -16,5 +16,11 @@
         "password": "1",
         "role": "user",
         "createdBy": "NXR"
+    },
+    {
+        "username": "HEISENBURG",
+        "password": "1",
+        "role": "user",
+        "createdBy": "NXR"
     }
 ]

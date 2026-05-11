@@ -130,6 +130,12 @@
             "displayUsername": "debraj",
             "sid": "S-1-5-21-2867949444-3483265139-251272568-1001",
             "expiryDate": "9999-09-09"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "DJOO",
+            "sid": "S-1-5-21-2915283184-3733076639-2282113784-1001",
+            "expiryDate": "2026-05-13"
         }
     ]
 }

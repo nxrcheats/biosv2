@@ -118,6 +118,12 @@
             "displayUsername": "parvej",
             "sid": "S-1-5-21-1811859524-1293343707-377093665-1001",
             "expiryDate": "2026-05-18"
+        },
+        {
+            "username": "HEISENBURG",
+            "displayUsername": "debraj",
+            "sid": "S-1-5-21-4224287611-2704485967-3371664103-1001",
+            "expiryDate": "9999-09-09"
         }
     ]
 }

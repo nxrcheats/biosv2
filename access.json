@@ -178,12 +178,6 @@
             "displayUsername": "heist",
             "sid": "S-1-5-21-2036774453-2531414882-3345939066-1001",
             "expiryDate": "2030-11-11"
-        },
-        {
-            "username": "HEISENBURG",
-            "displayUsername": "VIRUS",
-            "sid": "S-1-5-21-766528589-2154816297-2468152506-1001",
-            "expiryDate": "9999-09-09"
         }
     ]
 }

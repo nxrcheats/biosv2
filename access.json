@@ -172,6 +172,12 @@
             "displayUsername": "404-1",
             "sid": "S-1-5-21-3733034010-1617342665-3374539648-1002",
             "expiryDate": "2026-06-26"
+        },
+        {
+            "username": "HEISENBURG",
+            "displayUsername": "Virus",
+            "sid": "S-1-5-21-766528589-2154816297-2468152506-1001",
+            "expiryDate": "9999-09-09"
         }
     ]
 }

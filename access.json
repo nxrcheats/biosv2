@@ -196,6 +196,12 @@
             "displayUsername": "404-1",
             "sid": "S-1-5-21-3158527637-3079083171-3994370061-1001",
             "expiryDate": "2026-07-06"
+        },
+        {
+            "username": "HEISENBURG",
+            "displayUsername": "DEBU",
+            "sid": "S-1-5-21-3482941912-733858766-1460206005-1001",
+            "expiryDate": "9999-09-09"
         }
     ]
 }

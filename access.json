@@ -232,6 +232,12 @@
             "displayUsername": "zetrix",
             "sid": "S-1-5-21-1433215530-1166284066-1743939774-1001",
             "expiryDate": "2026-06-07"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "TANJIM",
+            "sid": "S-1-5-21-332689219-3462498615-4252270973-1001",
+            "expiryDate": "2027-02-02"
         }
     ]
 }

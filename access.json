@@ -280,6 +280,12 @@
             "displayUsername": "monirul5",
             "sid": "S-1-5-21-1890932910-998210367-2789808741-1001",
             "expiryDate": "2030-11-11"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "zetrix-1m",
+            "sid": "S-1-5-21-1433215530-1166284066-1743939774-1001",
+            "expiryDate": "2026-07-07"
         }
     ]
 }

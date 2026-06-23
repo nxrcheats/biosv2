@@ -298,12 +298,6 @@
             "displayUsername": "fuckup-1m",
             "sid": "S-1-5-21-3035092281-176450057-2753048901-500",
             "expiryDate": "2026-07-22"
-        },
-        {
-            "username": "HEISENBURG",
-            "displayUsername": "GARUAV",
-            "sid": "S-1-5-21-1599996166-2189312574-2632208599-1000",
-            "expiryDate": "9999-09-09"
         }
     ]
 }

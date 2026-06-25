@@ -22,5 +22,11 @@
         "password": "1",
         "role": "user",
         "createdBy": "NXR"
+    },
+    {
+        "username": "MITHIL",
+        "password": "34",
+        "role": "user",
+        "createdBy": "NXR"
     }
 ]

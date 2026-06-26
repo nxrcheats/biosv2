@@ -28,5 +28,11 @@
         "password": "34",
         "role": "user",
         "createdBy": "NXR"
+    },
+    {
+        "username": "AMIT",
+        "password": "10",
+        "role": "user",
+        "createdBy": "NXR"
     }
 ]

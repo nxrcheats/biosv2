@@ -34,5 +34,11 @@
         "password": "10",
         "role": "user",
         "createdBy": "NXR"
+    },
+    {
+        "username": "MARRY",
+        "password": "60",
+        "role": "user",
+        "createdBy": "NXR"
     }
 ]

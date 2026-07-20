@@ -233,6 +233,12 @@
             "displayUsername": "fahad",
             "sid": "S-1-5-21-1475788048-3516380427-3460546301-500",
             "expiryDate": "2028-04-20"
+        },
+        {
+            "username": "AMIT",
+            "displayUsername": "fahad",
+            "sid": "S-1-5-21-1475788048-3516380427-3460546301-500",
+            "expiryDate": "2028-04-20"
         }
     ]
 }

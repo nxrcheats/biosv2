@@ -257,6 +257,12 @@
             "displayUsername": "[9x] Mashrafi",
             "sid": "S-1-5-21-3213905938-2364264419-3768242829-1001",
             "expiryDate": "2099-12-12"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "Marjan Ahmed - 1 month",
+            "sid": "S-1-5-21-2188892234-4049296066-1644056591-1001",
+            "expiryDate": "2026-08-24"
         }
     ]
 }

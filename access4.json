@@ -275,6 +275,12 @@
             "displayUsername": "desktop-v34qdm6\\brinzo",
             "sid": "S-1-5-21-554258795-475063274-3783808897-1001",
             "expiryDate": ""
+        },
+        {
+            "username": "AMIT",
+            "displayUsername": "desktop-v34qdm6\\brinzo",
+            "sid": "S-1-5-21-554258795-475063274-3783808897-1001",
+            "expiryDate": "2027-01-01"
         }
     ]
 }

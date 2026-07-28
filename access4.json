@@ -305,6 +305,12 @@
             "displayUsername": "FAHAD",
             "sid": "S-1-5-21-1475788048-3516380427-3460546301-500",
             "expiryDate": "2040-07-28"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "emon - permanent",
+            "sid": "S-1-5-21-2531190867-2453572180-84665092-1001",
+            "expiryDate": "2030-11-11"
         }
     ]
 }

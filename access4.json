@@ -287,12 +287,6 @@
             "displayUsername": "dev",
             "sid": "S-1-5-21-76395650-70671434-109980576-1001",
             "expiryDate": "2027-07-29"
-        },
-        {
-            "username": "420",
-            "displayUsername": "Lucky",
-            "sid": "S-1-5-21-2569809234-1677201281-1489062789-1001",
-            "expiryDate": ""
         }
     ]
 }

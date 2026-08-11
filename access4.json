@@ -341,6 +341,12 @@
             "displayUsername": "fainaro",
             "sid": "S-1-5-21-1026607564-2142320404-2367618535-1001",
             "expiryDate": "2026-09-11"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "alee permanent",
+            "sid": "S-1-5-21-293426897-3239484-1543778953-1001",
+            "expiryDate": "2030-11-11"
         }
     ]
 }

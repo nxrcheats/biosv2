@@ -389,12 +389,6 @@
             "displayUsername": "anik",
             "sid": "S-1-5-21-909147962-3541928816-759121012-1001",
             "expiryDate": "2027-03-03"
-        },
-        {
-            "username": "MITHIL",
-            "displayUsername": "[ERROR] EMON",
-            "sid": "S-1-5-21-3428782708-3647145051-3926292212-1001",
-            "expiryDate": "2029-12-12"
         }
     ]
 }

@@ -425,6 +425,12 @@
             "displayUsername": "GOPAL",
             "sid": "S-1-5-21-3004171958-3938047741-1465043538-1000",
             "expiryDate": "2030-02-02"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "NAZMUL EXE",
+            "sid": "S-1-5-21-7986940-3047577032-1248351370-1001",
+            "expiryDate": "2030-02-02"
         }
     ]
 }

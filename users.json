@@ -34,5 +34,11 @@
         "password": "10",
         "role": "user",
         "createdBy": "NXR"
+    },
+    {
+        "username": "MITHIL EXE",
+        "password": "75",
+        "role": "admin",
+        "createdBy": "NXR"
     }
 ]

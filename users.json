@@ -34,11 +34,5 @@
         "password": "10",
         "role": "user",
         "createdBy": "NXR"
-    },
-    {
-        "username": "PANEL",
-        "password": "88",
-        "role": "user",
-        "createdBy": "NXR"
     }
 ]

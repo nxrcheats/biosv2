@@ -461,6 +461,12 @@
             "displayUsername": "desktop-5bkh9cv\\bnz owner",
             "sid": "S-1-5-21-3721392488-3934487979-767325200-1001",
             "expiryDate": "2026-09-25"
+        },
+        {
+            "username": "AMIT",
+            "displayUsername": "Priya",
+            "sid": "S-1-5-21-2495562590-12381053-4015311664-1001",
+            "expiryDate": "2026-08-29"
         }
     ]
 }

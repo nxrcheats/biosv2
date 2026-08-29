@@ -467,6 +467,12 @@
             "displayUsername": "Priya",
             "sid": "S-1-5-21-1326687286-1241761126-97256967-1001",
             "expiryDate": "2026-08-31"
+        },
+        {
+            "username": "AMIT",
+            "displayUsername": "desktop-1mu34nj\\craft",
+            "sid": "S-1-5-21-498167175-1784469169-3306981567-1001 desktop-1mu34nj\\craft",
+            "expiryDate": "2026-09-28"
         }
     ]
 }

@@ -497,6 +497,12 @@
             "displayUsername": "amitt",
             "sid": "S-1-5-21-690289232-2512037030-441875385-1001",
             "expiryDate": "2026-09-30"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "nuru",
+            "sid": "S-1-5-21-1806571827-3365881025-3738631682-1001",
+            "expiryDate": "2026-10-30"
         }
     ]
 }

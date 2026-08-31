@@ -503,6 +503,12 @@
             "displayUsername": "nuru",
             "sid": "S-1-5-21-1806571827-3365881025-3738631682-1001",
             "expiryDate": "2026-10-30"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "Andales",
+            "sid": "S-1-5-21-3490542712-3118946280-2890274075-1001",
+            "expiryDate": "2026-10-30"
         }
     ]
 }

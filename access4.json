@@ -497,6 +497,12 @@
             "displayUsername": "baby optimizer",
             "sid": "S-1-5-21-193014408-2729004339-790970104-1001",
             "expiryDate": "2026-10-30"
+        },
+        {
+            "username": "AMIT",
+            "displayUsername": "amitt",
+            "sid": "S-1-5-21-690289232-2512037030-441875385-1001",
+            "expiryDate": "2026-09-30"
         }
     ]
 }

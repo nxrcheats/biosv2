@@ -515,6 +515,12 @@
             "displayUsername": "AZAN",
             "sid": "S-1-5-21-992439118-1281408211-173602879-1001",
             "expiryDate": "2027-06-28"
+        },
+        {
+            "username": "AMIT",
+            "displayUsername": "CRONEX",
+            "sid": "S-1-5-21-2811963939-2152491482-2514577379-1001",
+            "expiryDate": "2026-10-01"
         }
     ]
 }

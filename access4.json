@@ -554,12 +554,6 @@
         },
         {
             "username": "MXA",
-            "displayUsername": "S-1-5-21-2014902484-2153668401-3223315674-1001",
-            "sid": "yeasin",
-            "expiryDate": "2027-06-30"
-        },
-        {
-            "username": "MXA",
             "displayUsername": "yeasin",
             "sid": "S-1-5-21-2014902484-2153668401-3223315674-1001",
             "expiryDate": "2027-06-30"

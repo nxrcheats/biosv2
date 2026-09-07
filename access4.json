@@ -1,12 +1,6 @@
 {
     "allowed_sids": [
         {
-            "username": "NXR",
-            "displayUsername": "NXR",
-            "sid": "S-1-5-21-2743676832-3932602478-443872101-1001",
-            "expiryDate": "2030-02-02"
-        },
-        {
             "username": "MXA",
             "displayUsername": "mxa corporation",
             "sid": "S-1-5-21-3618462483-1887792853-4037339759-1001",

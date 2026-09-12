@@ -599,6 +599,12 @@
             "displayUsername": "goku",
             "sid": "S-1-5-21-335308231-3670132857-767911703-1001",
             "expiryDate": "2028-11-20"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "Eren Yeager",
+            "sid": "S-1-5-21-679180983-2860444919-3245606847-1001",
+            "expiryDate": "2026-10-12"
         }
     ]
 }

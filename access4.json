@@ -599,6 +599,12 @@
             "displayUsername": "bunty",
             "sid": "S-1-5-21-1243135438-1238890201-2995448814-1001",
             "expiryDate": "2027-07-07"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "Only fixa BD",
+            "sid": "S-1-5-21-873858190-534377053-572282404-1001",
+            "expiryDate": "2027-07-11"
         }
     ]
 }

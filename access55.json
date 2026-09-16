@@ -1,0 +1,622 @@
+{
+    "allowed_sids": [
+        {
+            "username": "MXA",
+            "displayUsername": "mxa corporation",
+            "sid": "S-1-5-21-3618462483-1887792853-4037339759-1001",
+            "expiryDate": "2030-11-11"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "monirul",
+            "sid": "S-1-5-21-1890932910-998210367-2789808741-1001",
+            "expiryDate": "2030-11-11"
+        },
+        {
+            "username": "NXR",
+            "displayUsername": "SAFAT",
+            "sid": "S-1-5-21-2815027018-2745161356-3722614065-1001",
+            "expiryDate": "2027-02-02"
+        },
+        {
+            "username": "MITHIL",
+            "displayUsername": "Rinku",
+            "sid": "S-1-5-21-4271104525-1217162002-3219110579-1001",
+            "expiryDate": "2027-12-20"
+        },
+        {
+            "username": "MITHIL",
+            "displayUsername": "Mithil",
+            "sid": "S-1-5-21-722639495-1617238113-568260793-1000",
+            "expiryDate": "20250-12-12"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "flex - permanent",
+            "sid": "S-1-5-21-3079953783-560566846-2766981941-1001",
+            "expiryDate": "2030-11-11"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "heist-permanent",
+            "sid": "S-1-5-21-2036774453-2531414882-3345939066-1001",
+            "expiryDate": "2030-11-12"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "emon-permanent 3",
+            "sid": "S-1-5-21-452719085-839382205-579698827-1001",
+            "expiryDate": "2027-11-11"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "50$ paypal scam",
+            "sid": "S-1-5-21-985878460-1204880904-880399636-1001",
+            "expiryDate": "2030-11-11"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "tanjim permanent",
+            "sid": "S-1-5-21-480876858-106491101-2051904658-1001",
+            "expiryDate": "2030-11-11"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "Fs Rohan",
+            "sid": "S-1-5-21-1433215530-1166284066-1743939774-1001",
+            "expiryDate": "2026-09-16"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "shadow indian perma",
+            "sid": "S-1-5-21-3857190006-3109216204-2901804181-500",
+            "expiryDate": "2030-11-11"
+        },
+        {
+            "username": "AMIT",
+            "displayUsername": "Benx",
+            "sid": "S-1-5-21-76780078-2195757128-559935375-1001",
+            "expiryDate": "2026-08-31"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "~Primon Hussain",
+            "sid": "S-1-5-21-3255490764-2600242830-3906882824-1001",
+            "expiryDate": "2030-11-11"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "~AL MA UN wp - prmnt",
+            "sid": "S-1-5-21-4240410503-2020823357-4149998578-1001",
+            "expiryDate": "2030-11-11"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "jubair",
+            "sid": "S-1-5-21-3943280463-2293450049-4159995712-1001",
+            "expiryDate": "2030-11-11"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "zetrix",
+            "sid": "S-1-5-21-3100354259-1468887793-3474893299-1001",
+            "expiryDate": "2030-11-11"
+        },
+        {
+            "username": "HEISENBURG",
+            "displayUsername": "8G",
+            "sid": "S-1-5-21-547146907-1695638968-3547408945-1001",
+            "expiryDate": "9999-09-09"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "PROYASH",
+            "sid": "S-1-5-21-3366026649-3987904049-1863948407-1001",
+            "expiryDate": "2030-11-11"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "PROYASH",
+            "sid": "S-1-5-21-3366026649-3987904049-1863948407-1001",
+            "expiryDate": "2030-11-11"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "raja pro +",
+            "sid": "S-1-5-21-2932047758-3028992486-2336910959-1001",
+            "expiryDate": "2030-11-11"
+        },
+        {
+            "username": "AMIT",
+            "displayUsername": "amit",
+            "sid": "S-1-5-21-3865748030-316157288-1526150793-1001",
+            "expiryDate": "2029-12-30"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "break 444-web",
+            "sid": "S-1-5-21-1555971482-1890946131-1722442611-1001",
+            "expiryDate": "2030-11-11"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "PROYASH",
+            "sid": "S-1-5-21-1795187001-776152809-4276559823-1000",
+            "expiryDate": "2026-11-11"
+        },
+        {
+            "username": "420",
+            "displayUsername": "apex",
+            "sid": "S-1-5-21-1597342482-3013667015-1938636584-500",
+            "expiryDate": "2026-10-07"
+        },
+        {
+            "username": "AMIT",
+            "displayUsername": "FAHAD",
+            "sid": "S-1-5-21-1475788048-3516380427-3460546301-500",
+            "expiryDate": "2040-07-28"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "emon - permanent",
+            "sid": "S-1-5-21-2531190867-2453572180-84665092-1001",
+            "expiryDate": "2030-11-11"
+        },
+        {
+            "username": "420",
+            "displayUsername": "Lucky",
+            "sid": "S-1-5-21-2569809234-1677201281-1489062789-1001",
+            "expiryDate": "2027-07-29"
+        },
+        {
+            "username": "420",
+            "displayUsername": "divyang",
+            "sid": "S-1-5-21-4243713541-4009147012-2481664863-1001",
+            "expiryDate": "2026-10-01"
+        },
+        {
+            "username": "MITHIL",
+            "displayUsername": "Rakib",
+            "sid": "S-1-5-21-65423103-1533875447-2277787925-1001",
+            "expiryDate": "2027-12-20"
+        },
+        {
+            "username": "MITHIL",
+            "displayUsername": "[9X] MASHRAFI",
+            "sid": "S-1-5-21-2298709065-3323158015-2548367456-1001",
+            "expiryDate": "2027-12-01"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "raihan",
+            "sid": "S-1-5-21-404653978-3577460164-3551020315-1001",
+            "expiryDate": "2030-11-11"
+        },
+        {
+            "username": "MITHIL",
+            "displayUsername": "Rayhan",
+            "sid": "S-1-5-21-3805610791-4291464244-2647885986-1001",
+            "expiryDate": "2027-12-02"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "alee permanent",
+            "sid": "S-1-5-21-293426897-3239484-1543778953-1001",
+            "expiryDate": "2030-11-11"
+        },
+        {
+            "username": "AMIT",
+            "displayUsername": "aa",
+            "sid": "S-1-5-21-690289232-2512037030-441875385-1001",
+            "expiryDate": "2028-01-01"
+        },
+        {
+            "username": "MITHIL",
+            "displayUsername": "ryhan",
+            "sid": "S-1-5-21-3402788758-747948845-1045600920-1001",
+            "expiryDate": "2027-12-12"
+        },
+        {
+            "username": "MITHIL",
+            "displayUsername": "Digonto",
+            "sid": "S-1-5-21-2866816811-3479194535-3769304228-1001",
+            "expiryDate": "2027-12-20"
+        },
+        {
+            "username": "MITHIL",
+            "displayUsername": "Digonto",
+            "sid": "S-1-5-21-2866816811-3479194535-3769304228-1001",
+            "expiryDate": "2027-12-20"
+        },
+        {
+            "username": "MITHIL",
+            "displayUsername": "MOIEN EXE",
+            "sid": "S-1-5-21-3562995570-3392648291-840182967-1001",
+            "expiryDate": "2027-12-12"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "monster",
+            "sid": "S-1-5-21-1762307593-2067966069-1963487517-1001",
+            "expiryDate": "2030-11-11"
+        },
+        {
+            "username": "AMIT",
+            "displayUsername": "munna",
+            "sid": "S-1-5-21-708268955-1054629730-196506072-1001",
+            "expiryDate": "2040-12-12"
+        },
+        {
+            "username": "AMIT",
+            "displayUsername": "anik",
+            "sid": "S-1-5-21-909147962-3541928816-759121012-1001",
+            "expiryDate": "2027-03-03"
+        },
+        {
+            "username": "MITHIL",
+            "displayUsername": "[ERROR] Emon",
+            "sid": "S-1-5-21-3428782708-3647145051-3926292212-1001",
+            "expiryDate": "2027-12-12"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "marjan-permanent",
+            "sid": "S-1-5-21-2188892234-4049296066-1644056591-1001",
+            "expiryDate": "2030-11-11"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "nayan",
+            "sid": "S-1-5-21-3742753540-2883072797-1964423533-1002",
+            "expiryDate": "2026-09-15"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "shahan ind",
+            "sid": "S-1-5-21-1481611951-55499010-560750563-1001",
+            "expiryDate": "2026-09-20"
+        },
+        {
+            "username": "MITHIL",
+            "displayUsername": "[9X]mashrafi",
+            "sid": "S-1-5-21-1775456105-3678446982-788869112-1001",
+            "expiryDate": "2027-12-20"
+        },
+        {
+            "username": "NXR",
+            "displayUsername": "GOPAL",
+            "sid": "S-1-5-21-3004171958-3938047741-1465043538-1000",
+            "expiryDate": "2030-02-02"
+        },
+        {
+            "username": "MITHIL",
+            "displayUsername": "MITHIL EXE",
+            "sid": "S-1-5-21-3748125734-2074298937-1122611033-1000",
+            "expiryDate": "2027-12-12"
+        },
+        {
+            "username": "MITHIL",
+            "displayUsername": "Tawhid",
+            "sid": "S-1-5-21-1318579793-4280189012-326974386-1001",
+            "expiryDate": "2027-12-12"
+        },
+        {
+            "username": "NAZMUL EXE",
+            "displayUsername": "OKDONT",
+            "sid": "S-1-5-21-1947282047-3587485540-2733425181-1001",
+            "expiryDate": "2027-08-26"
+        },
+        {
+            "username": "NAZMUL EXE",
+            "displayUsername": "NAZMUL EXE",
+            "sid": "S-1-5-21-7986940-3047577032-1248351370-1001",
+            "expiryDate": "2027-08-26"
+        },
+        {
+            "username": "NXR",
+            "displayUsername": "NXR",
+            "sid": "S-1-5-21-3816896207-1483556994-1922370038-1001",
+            "expiryDate": "2027-08-28"
+        },
+        {
+            "username": "MITHIL",
+            "displayUsername": "Maruf",
+            "sid": "S-1-5-21-588212585-133406433-629349953-1001",
+            "expiryDate": "2027-08-28"
+        },
+        {
+            "username": "AMIT",
+            "displayUsername": "desktop-1mu34nj\\craft",
+            "sid": "S-1-5-21-498167175-1784469169-3306981567-1001",
+            "expiryDate": "2026-10-08"
+        },
+        {
+            "username": "AMIT",
+            "displayUsername": "desktop-1mu34nj\\craft",
+            "sid": "S-1-5-21-498167175-1784469169-3306981567-1001",
+            "expiryDate": "2026-10-08"
+        },
+        {
+            "username": "AMIT",
+            "displayUsername": "tushar",
+            "sid": "S-1-5-21-3999551511-2507594349-1323114987-1001",
+            "expiryDate": "2027-06-25"
+        },
+        {
+            "username": "NAZMUL EXE",
+            "displayUsername": "mehedi",
+            "sid": "S-1-5-21-4076522947-3797350568-2722766715-1001",
+            "expiryDate": "2026-09-29"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "baby optimizer",
+            "sid": "S-1-5-21-193014408-2729004339-790970104-1001",
+            "expiryDate": "2026-10-30"
+        },
+        {
+            "username": "AMIT",
+            "displayUsername": "amitt",
+            "sid": "S-1-5-21-690289232-2512037030-441875385-1001",
+            "expiryDate": "2026-09-30"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "nuru",
+            "sid": "S-1-5-21-1806571827-3365881025-3738631682-1001",
+            "expiryDate": "2026-10-30"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "Andales",
+            "sid": "S-1-5-21-3490542712-3118946280-2890274075-1001",
+            "expiryDate": "2026-10-30"
+        },
+        {
+            "username": "AMIT",
+            "displayUsername": "AZAN",
+            "sid": "S-1-5-21-992439118-1281408211-173602879-1001",
+            "expiryDate": "2027-06-28"
+        },
+        {
+            "username": "AMIT",
+            "displayUsername": "CRONEX",
+            "sid": "S-1-5-21-2811963939-2152491482-2514577379-1001",
+            "expiryDate": "2026-10-01"
+        },
+        {
+            "username": "MITHIL",
+            "displayUsername": "MITHIL",
+            "sid": "S-1-5-21-3748125734-2074298937-1122611033-1000",
+            "expiryDate": "2027-09-02"
+        },
+        {
+            "username": "MITHIL",
+            "displayUsername": "Hamim",
+            "sid": "S-1-5-21-4009330012-2271653365-3055850201-1001",
+            "expiryDate": "2026-10-02"
+        },
+        {
+            "username": "MITHIL",
+            "displayUsername": "Sadek",
+            "sid": "S-1-5-21-3762756152-3322563877-3130977158-1001",
+            "expiryDate": "2026-10-02"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "\u028f\u029c\u1d21\u1d00\u1d04\u029c permanent",
+            "sid": "S-1-5-21-1795187001-776152809-4276559823-1000",
+            "expiryDate": "2027-08-25"
+        },
+        {
+            "username": "420",
+            "displayUsername": "Harsha",
+            "sid": "S-1-5-21-1115352034-2355604774-3682861573-1001",
+            "expiryDate": "2026-10-04"
+        },
+        {
+            "username": "AMIT",
+            "displayUsername": "munna bot",
+            "sid": "S-1-5-21-1429120158-3479334058-166178132-1001",
+            "expiryDate": "2027-07-01"
+        },
+        {
+            "username": "AMIT",
+            "displayUsername": "mehedi",
+            "sid": "S-1-5-21-3237829430-1935062162-2937239916-1001",
+            "expiryDate": "2027-07-01"
+        },
+        {
+            "username": "AMIT",
+            "displayUsername": "BRINZO R DADA",
+            "sid": "S-1-5-21-610969990-2668520925-4070281949-1001",
+            "expiryDate": "2026-10-05"
+        },
+        {
+            "username": "NAZMUL EXE",
+            "displayUsername": "dev",
+            "sid": "S-1-5-21-260340924-1858849773-1649722055-1001",
+            "expiryDate": "2027-03-25"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "yeasin",
+            "sid": "S-1-5-21-2926707449-1771228294-2226620608-1001",
+            "expiryDate": "2027-07-03"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "night",
+            "sid": "S-1-5-21-1570435133-2467596887-3758172333-1001",
+            "expiryDate": "2026-11-05"
+        },
+        {
+            "username": "420",
+            "displayUsername": "Erripukka",
+            "sid": "S-1-5-21-1367566900-402953737-1674302065-1001",
+            "expiryDate": "2026-10-07"
+        },
+        {
+            "username": "MITHIL",
+            "displayUsername": "Sadek",
+            "sid": "S-1-5-21-2744267663-299254551-3863977894-1001",
+            "expiryDate": "2026-10-07"
+        },
+        {
+            "username": "NXR",
+            "displayUsername": "NXR",
+            "sid": "S-1-5-21-1276595598-158711927-3456456264-1001",
+            "expiryDate": "2029-06-02"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "redblocker",
+            "sid": "S-1-5-21-2183214347-1396369615-715792433-1001",
+            "expiryDate": "2027-07-05"
+        },
+        {
+            "username": "420",
+            "displayUsername": "lighting",
+            "sid": "S-1-5-21-2444132648-192150148-3674933573-1000",
+            "expiryDate": "2026-10-08"
+        },
+        {
+            "username": "MITHIL",
+            "displayUsername": "Mohan",
+            "sid": "S-1-5-21-3656335516-2958977152-2803779352-1001",
+            "expiryDate": "2026-10-08"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "\u0280\u1d00\u0262\u0274\u1d00\u0280\u00b7\u2076\u2076\u2076 1m",
+            "sid": "S-1-5-21-2804947392-190106947-3976934655-1001",
+            "expiryDate": "2026-10-08"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "abdullah",
+            "sid": "S-1-5-21-2159363343-4156530796-132540012-1001",
+            "expiryDate": "2026-10-09"
+        },
+        {
+            "username": "NXR",
+            "displayUsername": "Minar",
+            "sid": "S-1-5-21-746532390-3792347283-195127083-1001",
+            "expiryDate": "2026-10-09"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "alif",
+            "sid": "S-1-5-21-1903448349-764957061-3037289990-1001",
+            "expiryDate": "2027-07-05"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "ZINIX",
+            "sid": "S-1-5-21-1128117989-3000370684-2147806750-1001",
+            "expiryDate": "2026-09-19"
+        },
+        {
+            "username": "AMIT",
+            "displayUsername": "brinzo owner",
+            "sid": "S-1-5-21-3721392488-3934487979-767325200-1001",
+            "expiryDate": "2026-10-10"
+        },
+        {
+            "username": "MITHIL",
+            "displayUsername": "Asha",
+            "sid": "S-1-5-21-2965225519-186840740-1341997325-1001",
+            "expiryDate": "2026-10-10"
+        },
+        {
+            "username": "MITHIL",
+            "displayUsername": "Rinku",
+            "sid": "S-1-5-21-889525477-1168613881-3760459672-1001",
+            "expiryDate": "2026-10-10"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "JnyiX",
+            "sid": "S-1-5-21-2846881180-2182231939-3646794031-1001",
+            "expiryDate": "2029-06-06"
+        },
+        {
+            "username": "420",
+            "displayUsername": "404",
+            "sid": "S-1-5-21-3158527637-3079083171-3994370061-1001",
+            "expiryDate": "2027-07-08"
+        },
+        {
+            "username": "420",
+            "displayUsername": "zoro",
+            "sid": "S-1-5-21-4269479641-1031521876-3479364210-1001",
+            "expiryDate": "2026-10-11"
+        },
+        {
+            "username": "420",
+            "displayUsername": "Gojo",
+            "sid": "S-1-5-21-2398651170-2255980729-3158678774-1001",
+            "expiryDate": "2026-10-11"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "riyad",
+            "sid": "S-1-5-21-1967346466-4053367456-2173843198-1000",
+            "expiryDate": "2027-09-07"
+        },
+        {
+            "username": "MITHIL",
+            "displayUsername": "AHS SWEETX GAMING",
+            "sid": "S-1-5-21-1439529798-63405294-4101702140-1001",
+            "expiryDate": "2026-10-12"
+        },
+        {
+            "username": "NAZMUL EXE",
+            "displayUsername": "goku",
+            "sid": "S-1-5-21-335308231-3670132857-767911703-1001",
+            "expiryDate": "2028-11-20"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "Eren Yeager",
+            "sid": "S-1-5-21-679180983-2860444919-3245606847-1001",
+            "expiryDate": "2026-10-12"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "Feinaro",
+            "sid": "S-1-5-21-1026607564-2142320404-2367618535-1001",
+            "expiryDate": "2026-10-12"
+        },
+        {
+            "username": "420",
+            "displayUsername": "Sunny puku",
+            "sid": "S-1-5-21-2458201111-3060385840-1131695946-1001",
+            "expiryDate": "2026-10-13"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "Only fixa BD",
+            "sid": "S-1-5-21-873858190-534377053-572282404-1001",
+            "expiryDate": "2027-07-11"
+        },
+        {
+            "username": "420",
+            "displayUsername": "chai",
+            "sid": "S-1-5-21-2274257893-122689989-499214997-1001",
+            "expiryDate": "2027-07-11"
+        },
+        {
+            "username": "AMIT",
+            "displayUsername": "TrySpidey",
+            "sid": "S-1-5-21-4114185820-67361577-1909455422-1001",
+            "expiryDate": "2034-12-02"
+        },
+        {
+            "username": "420",
+            "displayUsername": "test 2",
+            "sid": "S-1-5-21-1307188468-2709182222-3530755418-1001",
+            "expiryDate": "2026-09-17"
+        }
+    ]
+}

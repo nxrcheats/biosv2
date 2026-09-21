@@ -761,6 +761,12 @@
             "displayUsername": "Sawren",
             "sid": "S-1-5-21-3409004384-169417535-2996057601-1001",
             "expiryDate": "2026-12-30"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "Dwens-3 permanent",
+            "sid": "S-1-5-21-4148144895-1628551266-3140034782-500",
+            "expiryDate": "2027-09-12"
         }
     ]
 }

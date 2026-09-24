@@ -779,6 +779,12 @@
             "displayUsername": "Nayme",
             "sid": "S-1-5-21-1239341143-3929882917-997610680-1000",
             "expiryDate": "+084163-12-10"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "THAKUR_LIVE",
+            "sid": "S-1-5-21-1330837248-742052031-3208240836-1001",
+            "expiryDate": "2026-10-24"
         }
     ]
 }

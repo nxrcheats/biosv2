@@ -809,6 +809,12 @@
             "displayUsername": "kreatos",
             "sid": "S-1-5-21-3835556006-145749654-2495483669-500",
             "expiryDate": "2034-12-14"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "jubair",
+            "sid": "S-1-5-21-2643257447-2646794967-731395026-1001",
+            "expiryDate": "2026-10-27"
         }
     ]
 }

@@ -599,6 +599,12 @@
             "displayUsername": "S-1-5-21-4229475884-3499959539-828236849-1001",
             "sid": "jubair",
             "expiryDate": "2026-10-28"
+        },
+        {
+            "username": "NXR",
+            "displayUsername": "TASIN",
+            "sid": "S-1-5-21-1648056624-3908060107-1917182331-1001",
+            "expiryDate": "2026-12-27"
         }
     ]
 }

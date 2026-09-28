@@ -593,6 +593,12 @@
             "displayUsername": "MONSTER",
             "sid": "S-1-5-21-1762307593-2067966069-1963487517-1001",
             "expiryDate": "2026-11-27"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "S-1-5-21-4229475884-3499959539-828236849-1001",
+            "sid": "jubair",
+            "expiryDate": "2026-10-28"
         }
     ]
 }

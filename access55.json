@@ -689,6 +689,12 @@
             "displayUsername": "dwens 3 permanaent",
             "sid": "S-1-5-21-314784767-1559390452-3126683678-1001",
             "expiryDate": "2027-09-26"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "marjan-permanent",
+            "sid": "S-1-5-21-4218929554-2790428827-2305171799-1001",
+            "expiryDate": "2027-09-26"
         }
     ]
 }

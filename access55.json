@@ -689,6 +689,12 @@
             "displayUsername": "apex",
             "sid": "S-1-5-21-714368197-4093937370-2388971143-500",
             "expiryDate": "2027-01-02"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "dwens 3 permanaent",
+            "sid": "S-1-5-21-314784767-1559390452-3126683678-1001",
+            "expiryDate": "2027-09-26"
         }
     ]
 }

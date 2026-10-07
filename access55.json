@@ -713,6 +713,12 @@
             "displayUsername": "dewana test",
             "sid": "S-1-5-21-4220557642-4135317212-3055845963-1001",
             "expiryDate": "2026-11-06"
+        },
+        {
+            "username": "MXA",
+            "displayUsername": "dwens frd permanent",
+            "sid": "S-1-5-21-4148144895-1628551266-3140034782-500",
+            "expiryDate": "2027-08-03"
         }
     ]
 }

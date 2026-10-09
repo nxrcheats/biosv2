@@ -97,12 +97,6 @@
             "expiryDate": "2030-11-11"
         },
         {
-            "username": "MXA",
-            "displayUsername": "PROYASH",
-            "sid": "S-1-5-21-1795187001-776152809-4276559823-1000",
-            "expiryDate": "2026-11-11"
-        },
-        {
             "username": "AMIT",
             "displayUsername": "FAHAD",
             "sid": "S-1-5-21-1475788048-3516380427-3460546301-500",
@@ -227,12 +221,6 @@
             "displayUsername": "CRONEX",
             "sid": "S-1-5-21-2811963939-2152491482-2514577379-1001",
             "expiryDate": "2026-10-01"
-        },
-        {
-            "username": "MXA",
-            "displayUsername": "\u028f\u029c\u1d21\u1d00\u1d04\u029c permanent",
-            "sid": "S-1-5-21-1795187001-776152809-4276559823-1000",
-            "expiryDate": "2027-08-25"
         },
         {
             "username": "AMIT",
@@ -503,12 +491,6 @@
             "displayUsername": "Kira",
             "sid": "S-1-5-21-632476985-2959484534-516358646-1001",
             "expiryDate": "2026-10-28"
-        },
-        {
-            "username": "MXA",
-            "displayUsername": "redblocker",
-            "sid": "S-1-5-21-1795187001-776152809-4276559823-1000",
-            "expiryDate": "2027-07-26"
         },
         {
             "username": "MITHIL",

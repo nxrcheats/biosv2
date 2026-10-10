@@ -701,6 +701,12 @@
             "displayUsername": "Albir",
             "sid": "S-1-5-21-3358386490-976525660-1719664923-1001",
             "expiryDate": "2026-11-09"
+        },
+        {
+            "username": "NXR",
+            "displayUsername": "Mahin",
+            "sid": "S-1-5-21-488319896-2318023155-1881389583-1001",
+            "expiryDate": "2027-01-08"
         }
     ]
 }

@@ -719,6 +719,12 @@
             "displayUsername": "zenitsuuuuuuuuuuuuuuuuuu",
             "sid": "S-1-5-21-1900847808-1894095421-1307030525-1001",
             "expiryDate": "2027-08-17"
+        },
+        {
+            "username": "420",
+            "displayUsername": "zoro",
+            "sid": "S-1-5-21-3354877191-4091913558-3524942960-1002",
+            "expiryDate": "2027-08-17"
         }
     ]
 }

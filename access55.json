@@ -217,12 +217,6 @@
             "expiryDate": "2026-10-08"
         },
         {
-            "username": "NXR",
-            "displayUsername": "Minar",
-            "sid": "S-1-5-21-746532390-3792347283-195127083-1001",
-            "expiryDate": "2026-10-09"
-        },
-        {
             "username": "MXA",
             "displayUsername": "alif",
             "sid": "S-1-5-21-1903448349-764957061-3037289990-1001",
@@ -491,12 +485,6 @@
             "displayUsername": "Sakib",
             "sid": "S-1-5-21-2990305715-1874713913-2849975783-1001",
             "expiryDate": "2026-10-31"
-        },
-        {
-            "username": "NXR",
-            "displayUsername": "Minar",
-            "sid": "S-1-5-21-746532390-3792347283-195127083-1001",
-            "expiryDate": "2026-12-31"
         },
         {
             "username": "MXA",

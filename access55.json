@@ -749,6 +749,12 @@
             "displayUsername": "chaithu",
             "sid": "S-1-5-21-2008246364-1296087377-2213575588-1001",
             "expiryDate": "2027-08-19"
+        },
+        {
+            "username": "NAZMUL EXE",
+            "displayUsername": "kalx",
+            "sid": "S-1-5-21-3081160825-1584473799-2199032877-1001",
+            "expiryDate": "2026-11-24"
         }
     ]
 }

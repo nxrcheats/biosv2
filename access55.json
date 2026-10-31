@@ -779,6 +779,12 @@
             "displayUsername": "Primon Hussain",
             "sid": "S-1-5-21-69600931-3202423092-2004614569-1001",
             "expiryDate": "2027-08-24"
+        },
+        {
+            "username": "NAZMUL EXE",
+            "displayUsername": "aura",
+            "sid": "S-1-5-21-3140310433-1668424219-1482250780-1001",
+            "expiryDate": "2027-07-29"
         }
     ]
 }

@@ -797,6 +797,12 @@
             "displayUsername": "valcano",
             "sid": "S-1-5-21-730298315-656843737-2608264609-1001",
             "expiryDate": "2026-11-27"
+        },
+        {
+            "username": "420",
+            "displayUsername": "sunnyclient",
+            "sid": "S-1-5-21-898999019-1145518987-1372498028-1001",
+            "expiryDate": "2026-12-07"
         }
     ]
 }
